@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nernst Potential</string>
+    <string name="sodium">Na&lt;sup&gt;+&lt;/sup&gt;</string>
+    <string name="potassium">K&lt;sup&gt;+&lt;/sup&gt;</string>
+    <string name="chloride">Cl&lt;sup&gt;-&lt;/sup&gt;</string>
+    <string name="calcium">Ca&lt;sup&gt;2+&lt;/sup&gt;</string>
+    <string name="temperature_c">Temperature [°C]:</string>
+    <string name="concentrations_mm">Concentrations [mM]:</string>
+    <string name="c_in">[In]</string>
+    <string name="c_out">[Out]</string>
+    <string name="calculate">Calculate</string>
+    <string name="ion_species">Ion species:</string>
+    <string name="reversal_potential_mv">Reversal Potential [mV]:</string>
+</resources>

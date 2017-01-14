@@ -1,0 +1,3 @@
+Nernst Potential
+
+Nernst Potential is a simple app that calculates the reversal potential for common ions using the Nernst equation. Change the ion species, intracellular and extracellular concentrations, and temperature. Great for neuroscience and chemistry students and researchers!
